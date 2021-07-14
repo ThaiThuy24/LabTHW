@@ -224,7 +224,6 @@ C:\Users\asus\OneDrive\Máy tính\DALTWeb\THLTW\BigSchool\BigSchool\obj\Debug\Bi
 C:\Users\asus\OneDrive\Máy tính\DALTWeb\THLTW\BigSchool\BigSchool\obj\Debug\BigSchool.csproj.CopyComplete
 C:\Users\asus\OneDrive\Máy tính\DALTWeb\THLTW\BigSchool\BigSchool\obj\Debug\BigSchool.dll
 C:\Users\asus\OneDrive\Máy tính\DALTWeb\THLTW\BigSchool\BigSchool\obj\Debug\BigSchool.pdb
-C:\Users\asus\OneDrive\Máy tính\DALTWeb\THLTW\BigSchool\BigSchool\obj\Debug\BigSchool.csproj.AssemblyReference.cache
 C:\Users\asus\OneDrive\Máy tính\DALTWeb\THLTW\BigSchool\BigSchool\obj\Debug\BigSchool.Migrations.AddAttendance.resources
 C:\Users\asus\OneDrive\Máy tính\DALTWeb\THLTW\BigSchool\BigSchool\bin\System.Net.Http.Formatting.dll
 C:\Users\asus\OneDrive\Máy tính\DALTWeb\THLTW\BigSchool\BigSchool\bin\System.Web.Http.dll
@@ -232,3 +231,5 @@ C:\Users\asus\OneDrive\Máy tính\DALTWeb\THLTW\BigSchool\BigSchool\bin\System.W
 C:\Users\asus\OneDrive\Máy tính\DALTWeb\THLTW\BigSchool\BigSchool\bin\System.Net.Http.Formatting.xml
 C:\Users\asus\OneDrive\Máy tính\DALTWeb\THLTW\BigSchool\BigSchool\bin\System.Web.Http.xml
 C:\Users\asus\OneDrive\Máy tính\DALTWeb\THLTW\BigSchool\BigSchool\bin\System.Web.Http.WebHost.xml
+C:\Users\asus\OneDrive\Máy tính\DALTWeb\THLTW\BigSchool\BigSchool\obj\Debug\BigSchool.Migrations.AddFollowingsTable.resources
+C:\Users\asus\OneDrive\Máy tính\DALTWeb\THLTW\BigSchool\BigSchool\obj\Debug\BigSchool.csproj.AssemblyReference.cache
