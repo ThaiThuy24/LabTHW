@@ -232,4 +232,5 @@ C:\Users\asus\OneDrive\Máy tính\DALTWeb\THLTW\BigSchool\BigSchool\bin\System.N
 C:\Users\asus\OneDrive\Máy tính\DALTWeb\THLTW\BigSchool\BigSchool\bin\System.Web.Http.xml
 C:\Users\asus\OneDrive\Máy tính\DALTWeb\THLTW\BigSchool\BigSchool\bin\System.Web.Http.WebHost.xml
 C:\Users\asus\OneDrive\Máy tính\DALTWeb\THLTW\BigSchool\BigSchool\obj\Debug\BigSchool.Migrations.AddFollowingsTable.resources
+C:\Users\asus\OneDrive\Máy tính\DALTWeb\THLTW\BigSchool\BigSchool\obj\Debug\BigSchool.Migrations.AddIsCanceledColumnToCourse.resources
 C:\Users\asus\OneDrive\Máy tính\DALTWeb\THLTW\BigSchool\BigSchool\obj\Debug\BigSchool.csproj.AssemblyReference.cache
